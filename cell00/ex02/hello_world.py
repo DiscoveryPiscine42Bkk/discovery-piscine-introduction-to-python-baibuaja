@@ -1,1 +1,1 @@
-(hello_world)
+print("Hell0_World")
